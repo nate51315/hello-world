@@ -1,3 +1,3 @@
 # hello-world
 first repository
-Adding stuff here and there then commiting.
+contains a hello world application written in Java.
